@@ -41,6 +41,16 @@
 			"moreInfo": "https://csaw.engineering.nyu.edu/ctf"
 		},
 		{
+			"name": "Backdoor CTF",
+			"startDate": "September 23",
+			"endDate": "September 24",
+			"startTime": "11:30am",
+			"endTime": "11:30am",
+			"year": "2017",
+			"location": "Online",
+			"moreInfo": "https://backdoor.sdslabs.co/signin"
+		},
+		{
 			"name": "DefCamp CTF Quals",
 			"startDate": "September 30",
 			"endDate": "October 1",
